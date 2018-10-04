@@ -6,5 +6,8 @@ target
 .project
 .idea
 *.iml
+*.mmdb
 
 dump.rdb
+/.vscode
+/.factorypath
